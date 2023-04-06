@@ -6,6 +6,6 @@
         yield
     end
 
-ff { |i| puts "good things#{i} "}
+ff {" welcome"}
 
         
