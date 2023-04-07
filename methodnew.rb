@@ -15,3 +15,4 @@ end
 
 object = Exp.new
 object.ss("multiplication")
+puts "thank you"
